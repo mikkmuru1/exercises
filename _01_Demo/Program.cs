@@ -24,7 +24,7 @@ namespace _01_Small_program
             int num2 = int.Parse(input2);
             
             //Add two number and display the sum.
-            Console.Write("Sum is:"num1 + num2);
+            Console.Write("Sum is:" num1 + num2);
 
             //Press any key to close program.
             Console.WriteLine("Press any key to continue.");
